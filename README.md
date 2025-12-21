@@ -34,3 +34,10 @@ streamlit
 tqdm==4.66.5
 Pillow==10.4.0
 protobuf==5.27.2
+
+
+## Outputs
+
+<img width="1920" height="1051" alt="Screenshot From 2025-10-28 14-53-12" src="https://github.com/user-attachments/assets/4219e340-a2da-479a-8d6b-d412e1611129" />
+
+
